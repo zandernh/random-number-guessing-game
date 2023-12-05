@@ -1,4 +1,4 @@
-# random-number-guessing-game
+# Random Number Guessing Game
 
 This is a number guessing game that you can play within your command prompt / terminal built in Python 3.11. 
 To initiate the game, please navigate to the randomgame.py location within your files within your terminal - and make sure you have Python installed on your device
